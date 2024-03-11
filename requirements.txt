@@ -1,0 +1,10 @@
+detectron2
+IPython
+matplotlib
+numpy
+opencv
+Pillow
+roboflow
+scikit-image
+tensorflow
+torch
